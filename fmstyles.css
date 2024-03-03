@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Nunito-Regular';
+  src: url(./Nunito-Regular.woff) format('woff'),
+       url(./Nunito-Regular.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Nunito-Bold';
+  src: url(./Nunito-Bold.woff) format('woff'),
+       url(./Nunito-Bold.woff2) format('woff2');
+}
